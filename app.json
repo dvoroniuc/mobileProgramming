@@ -1,14 +1,12 @@
 {
   "expo": {
-    "name": "mobileProject",
-    "slug": "mobileProject",
+    "name": "mobile-Programming",
+    "slug": "mobile-Programming",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./src/assets/images/icon.png",
-    "scheme": "myapp",
-    "userInterfaceStyle": "automatic",
+    "icon": "./assets/trash.png",
     "splash": {
-      "image": "./src/assets/images/splash.png",
+      "image": "./assets/trash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -23,12 +21,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./src/assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/v.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./src/assets/images/favicon.png"
+      "favicon": "./assets/trash.png"
     }
   }
 }
